@@ -1,11 +1,11 @@
 ## Project Files
-
+```
 config.py- This file cotain database configuration information.
 api.py - This file contains the api which perform CRUD opperation on Projects model.
 parser.py - This file contains the validation
 models.py - This file contain Project model description
 app.py -  This is the main file which run the server. 
-
+```
 ## Installation
 
 Create Virtual Environment
